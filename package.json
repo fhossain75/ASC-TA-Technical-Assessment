@@ -1,0 +1,17 @@
+{
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^24.9.0"
+  },
+  "scripts": {
+    "test": "jest tests/pokemon.test.js"
+  },
+  "name": "ta_javascriptassessment-master",
+  "description": "The All Star Code Teaching Assistant JavaScript Assessment consists of 4 tasks, to be completed and turned in to dante@allstarcode.org as a GitHub gist.",
+  "version": "1.0.0",
+  "main": "pokemon.js",
+  "directories": {
+    "test": "tests"
+  },
+  "author": ""
+}
